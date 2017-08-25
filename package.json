@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Kmart914/Liri#readme",
   "dependencies": {
+    "node-spotify-api": "^1.0.7",
     "twitter": "^1.7.1"
   }
 }
